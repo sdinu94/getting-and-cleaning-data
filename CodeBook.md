@@ -85,3 +85,11 @@ The code book will explain the variables in the final submission - 'Subject wise
 77. fBodyBodyGyroJerkMag_Mean
 78. fBodyBodyGyroJerkMag_Std
 79. fBodyBodyGyroJerkMag_MeanFreq
+
+## Activity Labels
+1. WALKING (1) - Measurement during walking
+2. WALKING_UPSTAIRS (2) - Measurement during climbing stairs
+3. WALKING_DOWNSTAIRS (3) - Measurement during coming down using stairs
+4. SITTING (4) - Measurement while sitting
+5. STANDING (5) - Measurement while standing
+6. LAYING (6) - Measurement while sleeping
